@@ -11,6 +11,7 @@ const App = () => {
           <div className="text-sm text-white mt-[10px]">
             Want to get in touch? We'd love to hear from you. Here's <br /> how
             you can reach us
+            
           </div>
         </div>
         <div className="mt-[40px] w-full h-auto flex justify-center bg-white">
